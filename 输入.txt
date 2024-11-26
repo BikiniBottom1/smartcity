@@ -1,0 +1,9 @@
+雨量站输入:data/gauges.txt
+降雨量输入：data/rainfall.txt
+网格输入：data/domin.asc
+
+jdbc:mysql://localhost:3306/mysql
+
+root
+自己主机MYSQL密码
+
